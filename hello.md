@@ -1,2 +1,3 @@
 test for git
-bug 
+bug
+master add 
